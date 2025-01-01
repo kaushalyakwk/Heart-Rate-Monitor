@@ -38,6 +38,7 @@ I have designed a 2 layer PCB for this device using Altium software. The PCB des
 
 ## Enclosure Design
 I have designed a 3D-printed enclosure useing Solidworks software, to the ergonomic and compact enclosure not only protects the delicate components but also ensures user comfort and convenience during measurement.
+
 ![image](https://github.com/user-attachments/assets/9d55f1f1-6892-421d-8726-5486452c01d0)
 
 ![image](https://github.com/user-attachments/assets/5d89021b-84fe-417b-9ca1-ea1e7fef099a)
