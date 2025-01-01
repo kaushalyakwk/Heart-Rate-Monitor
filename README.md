@@ -48,6 +48,12 @@ I have designed a 3D-printed enclosure useing Solidworks software, to the ergono
 ## Software Integration
 The software aspect involves programming the microcontroller to manage data from the sensors and display it on the LCD. I have used Arduino IDE for progamming the microcontroller.
 
+## Final Design
+
+![image](https://github.com/user-attachments/assets/402421e5-704f-43c2-986f-ed04265efcba)
+
+![image](https://github.com/user-attachments/assets/5292455f-2d2c-4b13-9e79-1789a0b73e14)
+
 
 
 
